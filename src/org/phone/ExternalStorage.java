@@ -11,6 +11,9 @@ public class ExternalStorage {
 		System.out.println("Strorage");
 	}
 
-	
+	private void phone() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
