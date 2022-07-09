@@ -13,7 +13,8 @@ public class ExternalStorage {
  private void memory() {
 	// TODO Auto-generated method stub
 
-}
-	
+ }	private void phone() {
+System.out.println("hy");
+	}
 
 }
