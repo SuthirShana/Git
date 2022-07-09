@@ -10,7 +10,10 @@ public class ExternalStorage {
 	public void storage() {
 		System.out.println("Strorage");
 	}
+ private void memory() {
+	// TODO Auto-generated method stub
 
+}
 	
 
 }
